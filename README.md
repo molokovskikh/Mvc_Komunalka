@@ -1,4 +1,4 @@
 Mvc_Komunalka
 =============
 
-usign CSS-template bootstrap
+using CSS-template bootstrap
